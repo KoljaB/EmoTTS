@@ -1,0 +1,104 @@
+neutral
+
+"The train leaves in about ten minutes, and if we keep walking at this pace, we should still have enough time to catch it without needing to rush."
+"The train leaves in about ten minutes," he said in a steady, matter-of-fact tone, glancing once at the clock before looking back at her. "If we keep walking at this pace, we should still have enough time to catch it without needing to rush."
+
+calm
+
+"[calm] Take a slow breath and look at me for a second. Nothing is falling apart yet, and we can handle this one step at a time without panicking."
+"Take a slow breath and look at me for a second," she said softly, her calm voice steady enough to quiet the panic in the room. "Nothing is falling apart yet, and we can handle this one step at a time without panicking."
+
+cheerful
+
+"[cheerfully] There you are! I was hoping today would start with something good, and seeing you now somehow makes the whole morning feel lighter already."
+"There you are!" she said with a bright, cheerful smile in her voice, the kind that made everything feel warmer. "I was hoping today would start with something good, and seeing you now somehow makes the whole morning feel lighter already."
+
+excited
+
+"[excited] Wait, seriously? We actually pulled it off, and after everything that almost went wrong, it finally worked exactly the way we hoped it would!"
+"Wait, seriously?" he burst out, barely able to contain the excitement rushing through him as the realization hit. "We actually pulled it off, and after everything that almost went wrong, it finally worked exactly the way we hoped it would!"
+
+sadness
+
+"[sorrowful] I kept thinking you might still come back somehow, even long after I had every reason to understand that some things do not return once they are gone."
+"I kept thinking you might still come back somehow," she said, her voice trembling under the weight of sadness and resignation. "Even long after I had every reason to understand that some things do not return once they are gone."
+
+anger
+
+"[angry] Don't stand there trying to twist this around on me again. Just look me in the eye for once and tell me the truth without hiding behind excuses."
+"Don't stand there trying to twist this around on me again," he snapped, anger cutting through every word like a blade. "Just look me in the eye for once and tell me the truth without hiding behind excuses."
+
+fear
+
+"[nervous] Did you hear that just now? I swear there is something moving out there, and I really don't think we should stay here any longer."
+"Did you hear that just now?" she whispered, her voice tight with fear and barely holding together. "I swear there is something moving out there, and I really don't think we should stay here any longer."
+
+anxious
+
+"[anxious] I know it will probably be fine in the end, and maybe I'm overthinking it again, but I still can't shake this awful feeling in my chest."
+"I know it will probably be fine in the end," he said, speaking a little too fast, his anxiety leaking into every syllable. "Maybe I'm overthinking it again, but I still can't shake this awful feeling in my chest."
+
+confident
+
+"[confident] Listen to me carefully for a moment. This is the right move, and I know exactly why it works, even if it doesn't make sense to everyone yet."
+"Listen to me carefully for a moment," she said with quiet, unshakable confidence, her voice steady and certain. "This is the right move, and I know exactly why it works, even if it doesn't make sense to everyone yet."
+
+curious
+
+"[curious] That's really interesting, actually. What do you think would happen if we approached it from the other side and tried something slightly different this time?"
+"That's really interesting, actually," he said, curiosity brightening his voice as his mind immediately started exploring possibilities. "What do you think would happen if we approached it from the other side and tried something slightly different this time?"
+
+surprised
+
+"[surprised] Wait, you knew all of this the whole time and never said a word to anyone? How was I supposed to see that coming?"
+"Wait, you knew all of this the whole time and never said a word to anyone?" she asked, startled, the surprise rising sharply through her voice. "How was I supposed to see that coming?"
+
+determined
+
+"[determined] We have already come too far, sacrificed too much, and worked too hard to stop now just because the last part is difficult."
+"We have already come too far, sacrificed too much, and worked too hard to stop now," he said, his voice firm with determination. "The fact that the last part is difficult is exactly why we have to finish it."
+
+compassionate
+
+"[compassionate] I know this hurts more than you want to admit, and you really do not have to carry all of it alone while pretending you're fine."
+"I know this hurts more than you want to admit," she said with deep compassion, every word warm, gentle, and sincere. "You really do not have to carry all of it alone while pretending you're fine."
+
+tender
+
+"[gently] Hey... it's alright now. You don't have to explain everything tonight, and you don't have to be strong for me every second."
+"Hey... it's alright now," he said softly, his voice filled with a tender warmth that made the words feel safe to lean into. "You don't have to explain everything tonight, and you don't have to be strong for me every second."
+
+playful
+
+"[playfully] Oh, so that's your grand master plan? I have to admit, it's a little reckless, a little ridiculous, and somehow exactly your style."
+"Oh, so that's your grand master plan?" she teased, her voice light, amused, and unmistakably playful. "I have to admit, it's a little reckless, a little ridiculous, and somehow exactly your style."
+
+romantic
+
+"[romantic] When you look at me like that, the whole world seems to go quiet for a moment, like nothing else matters except being here with you."
+"When you look at me like that," he said, his voice low and full of quiet longing, "the whole world seems to go quiet for a moment, like nothing else matters except being here with you."
+
+sarcastic
+
+"[sarcastic] Oh, fantastic. Because clearly this day was going far too smoothly, and what it really needed was one more completely avoidable disaster."
+"Oh, fantastic," she said dryly, her voice dripping with sarcasm so heavily it was impossible to miss. "Because clearly this day was going far too smoothly, and what it really needed was one more completely avoidable disaster."
+
+solemn
+
+"[solemn] We remember them today not only for what they gave, but for what they endured, and we speak their names with quiet respect."
+"We remember them today not only for what they gave, but for what they endured," he said solemnly, each word measured and reverent. "And we speak their names with the kind of quiet respect that outlives grief."
+
+urgent
+
+"[urgent] Move, now. We are almost out of time, and if we wait even a few more seconds, this is going to get much worse."
+"Move, now," she said, urgency breaking sharply through her voice as the danger closed in. "We are almost out of time, and if we wait even a few more seconds, this is going to get much worse."
+
+contemplative
+
+"[contemplative] Maybe the real question isn't whether we can still do this, but why we wanted it so badly in the first place."
+"Maybe the real question isn't whether we can still do this," he said after a thoughtful pause, his voice quiet and contemplative. "Maybe it's why we wanted it so badly in the first place."
+
+whisper
+
+"[whispers] Keep your voice down and don't turn around too quickly. If someone is listening from the other side of that door, I don't want them hearing us."
+"Keep your voice down and don't turn around too quickly," she whispered, leaning in so close the words barely rose above the silence. "If someone is listening from the other side of that door, I don't want them hearing us."
